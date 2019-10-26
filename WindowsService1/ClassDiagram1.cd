@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsService1.BackUpService">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAAAACACAAACEACAAAACAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>BackUpItService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utility">
+    <Position X="0.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAIAAABAAEAAABAAAAAAAAAAgABAAAAAAAA=</HashCode>
+      <FileName>BackUpItService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelnetConnection" BaseTypeListCollapsed="true">
+    <Position X="3" Y="0.5" Width="2.5" />
+    <NestedTypes>
+      <Delegate Name="TelnetConnection.ConnectionDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BackUpItService.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAAAgAiCAAIAAKAAAAAAAgEBAQAEAAAAAQAAGAQAo=</HashCode>
+      <FileName>BackUpItService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.163" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

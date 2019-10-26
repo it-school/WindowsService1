@@ -17,7 +17,7 @@ namespace WindowsService1
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new BackUpService()
             };
             ServiceBase.Run(ServicesToRun);
         }
